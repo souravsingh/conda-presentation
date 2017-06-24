@@ -41,7 +41,7 @@ hopefully, provide a stable source for packages while reducing the effort duplic
 ---
 #### What do we mean by it?
 
-Have a community driven ""channel" for conda and a community process for submission, verification and building of the packages.
+Have a community driven "channel" for conda and a community process for submission, verification and building of the packages.
 
 [https://conda-forge.github.io](https://conda-forge.github.io)
 
